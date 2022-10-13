@@ -184,6 +184,7 @@
 	patches.armbian/Fix-duplicate-nodes-for-sun50i-h5-orangepi-pc2.patch
 	patches.armbian/fix-cpu-opp-table-sun8i-a83t.patch
 
+	patches.armbian/0001-arm64-allwinner-h5-add-support-for-Fly-Pi-v1-board.patch
 	patches.armbian/0001-move-sun50i-h6-pwm-settings-to-its-own-overlay.patch
 	patches.armbian/0002-compile-the-pwm-overlay.patch
 	patches.armbian/0003-add-dump_reg-and-sunxi-sysinfo-drivers.patch
